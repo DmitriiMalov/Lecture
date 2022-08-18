@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\Project\Repo\Examples\Exampie002_Hello User\bin\Debug\net6.0\Exampie002_Hello User.exe
+C:\Users\Дмитрий\Desktop\Project\Repo\Examples\Exampie002_Hello User\bin\Debug\net6.0\Exampie002_Hello User.deps.json
+C:\Users\Дмитрий\Desktop\Project\Repo\Examples\Exampie002_Hello User\bin\Debug\net6.0\Exampie002_Hello User.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Project\Repo\Examples\Exampie002_Hello User\bin\Debug\net6.0\Exampie002_Hello User.dll
+C:\Users\Дмитрий\Desktop\Project\Repo\Examples\Exampie002_Hello User\bin\Debug\net6.0\Exampie002_Hello User.pdb
+C:\Users\Дмитрий\Desktop\Project\Repo\Examples\Exampie002_Hello User\obj\Debug\net6.0\Exampie002_Hello User.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Project\Repo\Examples\Exampie002_Hello User\obj\Debug\net6.0\Exampie002_Hello User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\Project\Repo\Examples\Exampie002_Hello User\obj\Debug\net6.0\Exampie002_Hello User.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\Project\Repo\Examples\Exampie002_Hello User\obj\Debug\net6.0\Exampie002_Hello User.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Project\Repo\Examples\Exampie002_Hello User\obj\Debug\net6.0\Exampie002_Hello User.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Project\Repo\Examples\Exampie002_Hello User\obj\Debug\net6.0\Exampie002_Hello User.dll
+C:\Users\Дмитрий\Desktop\Project\Repo\Examples\Exampie002_Hello User\obj\Debug\net6.0\refint\Exampie002_Hello User.dll
+C:\Users\Дмитрий\Desktop\Project\Repo\Examples\Exampie002_Hello User\obj\Debug\net6.0\Exampie002_Hello User.pdb
+C:\Users\Дмитрий\Desktop\Project\Repo\Examples\Exampie002_Hello User\obj\Debug\net6.0\Exampie002_Hello User.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\Project\Repo\Examples\Exampie002_Hello User\obj\Debug\net6.0\ref\Exampie002_Hello User.dll
